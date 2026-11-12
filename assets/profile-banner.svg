@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="440" viewBox="0 0 1400 440" role="img" aria-label="Chingiz, full stack developer and systems builder">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#081525"/><stop offset="0.56" stop-color="#09203a"/><stop offset="1" stop-color="#05101f"/></linearGradient>
+  <radialGradient id="spot" cx="74%" cy="48%" r="60%"><stop offset="0" stop-color="#05b9dc" stop-opacity=".14"/><stop offset="1" stop-color="#05b9dc" stop-opacity="0"/></radialGradient>
+  <linearGradient id="edge" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#0e86b5"/><stop offset="1" stop-color="#55e5d6"/></linearGradient>
+  <linearGradient id="card" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#122f4b" stop-opacity=".99"/><stop offset="1" stop-color="#0b1d34" stop-opacity=".98"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M 36 0 L 0 0 0 36" fill="none" stroke="#8faec5" stroke-width=".55" opacity=".10"/></pattern>
+  <filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="14"/></filter>
+</defs>
+<rect width="1400" height="440" rx="24" fill="url(#bg)"/>
+<rect width="1400" height="440" rx="24" fill="url(#spot)"/>
+<rect x="0" y="0" width="1400" height="440" rx="24" fill="url(#grid)"/>
+<path d="M 27 22 H 1373" stroke="#6b98b5" stroke-opacity=".18"/>
+<rect x="72" y="60" width="309" height="31" rx="15" fill="#0e344a" stroke="#1c7e9f" stroke-opacity=".8"/>
+<circle cx="91" cy="75.5" r="4" fill="#46dbcb"/>
+<text x="107" y="80.5" fill="#b1d9e3" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="bold" letter-spacing="1.1">ENGINEERING  /  WEB SYSTEMS  /  AI</text>
+<text x="66" y="196" fill="#ffffff" font-family="DejaVu Sans, Arial, sans-serif" font-size="78" font-weight="bold" letter-spacing="4">CHINGIZ</text>
+<path d="M 75 218 H 492" stroke="url(#edge)" stroke-width="3" stroke-linecap="round"/>
+<text x="72" y="266" fill="#86e4e8" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="bold" letter-spacing="1.8">FULL-STACK DEVELOPER</text>
+<text x="72" y="303" fill="#e1eaf4" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" letter-spacing=".8">SYSTEMS BUILDER</text>
+<text x="73" y="355" fill="#a9bacc" font-family="DejaVu Sans, Arial, sans-serif" font-size="16">Founder, Mono Digital</text>
+<text x="73" y="383" fill="#7e9aaf" font-family="DejaVu Sans, Arial, sans-serif" font-size="13">Web engineering  ·  Architecture  ·  Automation</text>
+<path d="M 620 36 V 404" stroke="#72c6ce" stroke-opacity=".12"/>
+<g transform="translate(679 50)">
+  <circle cx="344" cy="170" r="179" fill="#19bbcd" opacity=".10" filter="url(#glow)"/>
+  <circle cx="344" cy="170" r="165" fill="none" stroke="#3ebfda" stroke-opacity=".16" stroke-dasharray="3 11"/>
+  <circle cx="344" cy="170" r="120" fill="none" stroke="#55d0e1" stroke-opacity=".09"/>
+  <path d="M 155 93 C 231 93 218 151 302 151 M 353 151 C 423 151 399 218 473 218" stroke="#42c9e0" stroke-opacity=".57" stroke-width="2" fill="none"/>
+  <path d="M 193 285 C 250 285 235 218 298 218 M 365 218 C 432 218 436 286 489 286" stroke="#5bddcc" stroke-opacity=".45" stroke-width="2" fill="none"/>
+  <circle cx="155" cy="93" r="5" fill="#32c7d9"/><circle cx="302" cy="151" r="5" fill="#32c7d9"/><circle cx="473" cy="218" r="5" fill="#72e5d5"/><circle cx="193" cy="285" r="5" fill="#72e5d5"/><circle cx="489" cy="286" r="5" fill="#72e5d5"/>
+  <g transform="translate(34 53)">
+    <rect x="0" y="0" width="204" height="83" rx="12" fill="url(#card)" stroke="#26769a"/>
+    <rect x="16" y="18" width="38" height="38" rx="9" fill="#0d4358"/><path d="M27 39l9-9m-9 9l9 9m9-18l-9 18" stroke="#42d7dd" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="68" y="33" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="bold" fill="#eaf5fa">INTERFACE</text>
+    <text x="68" y="55" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#88afc2">UX · APPLICATIONS</text>
+  </g>
+  <g transform="translate(239 136)">
+    <rect x="0" y="0" width="214" height="96" rx="14" fill="url(#card)" stroke="#3dd2d8" stroke-width="1.6"/>
+    <rect x="16" y="17" width="41" height="42" rx="10" fill="#0b4c56"/>
+    <ellipse cx="37" cy="29" rx="11" ry="4.5" fill="none" stroke="#6ce5ce" stroke-width="2"/>
+    <path d="M26 29v15c0 7 22 7 22 0V29M26 36c0 7 22 7 22 0" fill="none" stroke="#6ce5ce" stroke-width="2"/>
+    <text x="70" y="36" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">SYSTEM CORE</text>
+    <text x="70" y="59" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#99c2cb">DATA · LOGIC · APIs</text>
+    <rect x="17" y="74" width="122" height="4" rx="2" fill="#1d566c"/><rect x="17" y="74" width="84" height="4" rx="2" fill="#50d5d5"/>
+  </g>
+  <g transform="translate(424 234)">
+    <rect x="0" y="0" width="216" height="88" rx="12" fill="url(#card)" stroke="#238d94"/>
+    <rect x="17" y="17" width="42" height="42" rx="9" fill="#104a4e"/>
+    <path d="M27 38h20M40 29l8 9-8 9M33 29l-8 9 8 9" stroke="#68e6d2" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="73" y="36" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="bold" fill="#f0faff">AUTOMATION</text>
+    <text x="73" y="57" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#8bb7c7">AI · WORKFLOWS</text>
+  </g>
+  <g stroke="#28b6c6" fill="#28b6c6" stroke-opacity=".5" fill-opacity=".7"><circle cx="281" cy="151" r="3"/><circle cx="484" cy="218" r="3"/><circle cx="204" cy="285" r="3"/></g>
+</g>
+<rect x=".75" y=".75" width="1398.5" height="438.5" rx="23.25" fill="none" stroke="#2e607c" stroke-opacity=".34" stroke-width="1.5"/>
+</svg>
